@@ -1,0 +1,123 @@
+
+body{
+    color: white;
+    background-color: rgb(163, 221, 179);
+    margin: 0px;
+    padding: 1px;
+    font-size: 2em;
+    
+    
+
+
+}
+
+.home{
+    text-align: center;
+    background: linear-gradient(to top, #62EC49, #38862A);
+    padding: 60px;
+    
+    
+    
+    
+    
+    
+    
+}
+ul{
+    display:flex;
+    list-style-type: none;
+    padding:20px;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: #000000;
+    font-size: 1em;
+    
+    
+    
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+p{
+    font-size: larger;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: none;
+}
+.center{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 1px;
+    margin: 0px;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: black;
+}
+
+mark{
+    color: #000000;
+    background-color:rgba(5, 255, 25, 0.384);
+}
+
+.colors{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 0px;
+
+}
+
+header{
+    text-align: center;
+    background-color: #38862A;
+    margin: 0px;
+    padding: 90px;
+}
+
+h2{
+    
+    color: #00f078;
+    text-align: left;
+    font-size: 50px;
+    margin: 2px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 2em;
+    
+
+}
+
+.ordernarh2{
+    background-color: #38862A;
+    color: white;
+}
+
+.ordernar{
+    background-color: rgb(182, 230, 202);
+    color: rgb(0, 0, 0);
+    padding: 0px;
+    margin: 50px;
+    font-size: 20px;
+}
+
+a{
+   
+    background-color: rgb(236, 234, 234);
+    text-decoration: none;
+    color: rgb(0, 255, 21);
+
+}
+
+.ref{
+    background-color: rgb(182, 230, 202);
+}
+   
+
+
+
+
+   
